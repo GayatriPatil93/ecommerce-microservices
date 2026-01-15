@@ -48,8 +48,6 @@ The application follows a **microservices-based architecture**:
 - **API Gateway** routes all incoming requests
 - **Resilience4j** is used for fault tolerance
 
-(You can add an architecture diagram image here later)
-
 ---
 
 ## 🚀 How to Run the Application
